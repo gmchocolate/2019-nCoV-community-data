@@ -1,11 +1,12 @@
 # 2019-nCoV-community-data
 
-# 数据迁移至https://gitee.com/geohey/gh-2019-nCoV-community-data
+# 数据迁移至
+https://gitee.com/geohey/gh-2019-nCoV-community-data
 
 
 数据更新：每日10:00自动更新
 
-confirmed字段：确诊人数未知
+confirmed：确诊人数(-1未知）
 
 坐标系：gcj02
 
